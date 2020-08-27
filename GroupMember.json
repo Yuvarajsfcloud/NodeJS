@@ -1,0 +1,2578 @@
+[
+    {
+      "GroupType": "Regular",
+      "GroupName": "LATAM BR Inside Sales",
+      "GroupId": "00G80000002FKBrEAO",
+      "UserOrGroupId": "00G2E000002FbXvUAK",
+      "RoleAPIName": "Brazil_MM_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G2E000002FovnUAC",
+      "RoleAPIName": "APAC_AM_IN",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G2E000002FovnUAC",
+      "RoleAPIName": "APAC_AM_IN",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G2E000002FovqUAC",
+      "RoleAPIName": "APAC_Account_Manager_Lead_IN",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G2E000002FovqUAC",
+      "RoleAPIName": "APAC_Account_Manager_Lead_IN",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G2E000002FovtUAC",
+      "RoleAPIName": "APAC_EAM_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G2E000002FovtUAC",
+      "RoleAPIName": "APAC_EAM_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Jetlore",
+      "GroupId": "00G2E0000047Kn7UAE",
+      "UserOrGroupId": "00G2E0000047KmyUAE",
+      "RoleAPIName": "Jetlore",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Jetlore",
+      "GroupId": "00G2E0000047Kn7UAE",
+      "UserOrGroupId": "00G2E0000047Kn4UAE",
+      "RoleAPIName": "Jetlore_Sales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Jetlore Sales",
+      "GroupId": "00G2E0000047Kn9UAE",
+      "UserOrGroupId": "00G2E0000047Kn4UAE",
+      "RoleAPIName": "Jetlore_Sales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "DE Business Enablement",
+      "GroupId": "00G2E000004NGjyUAG",
+      "UserOrGroupId": "00G2E0000047MesUAE",
+      "RoleAPIName": "DE_MM_Business_Enablement",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "UK Business Enablement",
+      "GroupId": "00G2E000004NGjuUAG",
+      "UserOrGroupId": "00G2E0000047MevUAE",
+      "RoleAPIName": "UK_MM_Business_Enablement",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "UK Business Enablement",
+      "GroupId": "00G2E000004NGk0UAG",
+      "UserOrGroupId": "00G2E0000047MevUAE",
+      "RoleAPIName": "UK_MM_Business_Enablement",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA BFS Live Lead Queue",
+      "GroupId": "00G2E0000059tzwUAA",
+      "UserOrGroupId": "00G2E00000597UgUAI",
+      "RoleAPIName": "NA_TS_Mgr_OB_EX_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "BFS Prospecting Queue",
+      "GroupId": "00G2E000005BHnyUAG",
+      "UserOrGroupId": "00G2E00000597UjUAI",
+      "RoleAPIName": "NA_TS_OB_EX_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA BFS Live Lead Queue",
+      "GroupId": "00G2E0000059tzwUAA",
+      "UserOrGroupId": "00G2E00000597UjUAI",
+      "RoleAPIName": "NA_TS_OB_EX_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - BU",
+      "GroupId": "00G80000001kjkpEAA",
+      "UserOrGroupId": "00G2E000005AdY8UAK",
+      "RoleAPIName": "PayPal_GPS",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - BU & Dublin Ops",
+      "GroupId": "00G80000001kaSOEAY",
+      "UserOrGroupId": "00G2E000005AdY8UAK",
+      "RoleAPIName": "PayPal_GPS",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - SMB Integration",
+      "GroupId": "00G80000001kOmNEAU",
+      "UserOrGroupId": "00G2E000005AdY8UAK",
+      "RoleAPIName": "PayPal_GPS",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PPTS_CaseShareGroup",
+      "GroupId": "00G800000055Z6pEAE",
+      "UserOrGroupId": "00G2E000005AdY8UAK",
+      "RoleAPIName": "PayPal_GPS",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA LM - EM Sales",
+      "GroupId": "00G80000001kquvEAA",
+      "UserOrGroupId": "00G2E000005AdY8UAK",
+      "RoleAPIName": "PayPal_GPS",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA Admin Team",
+      "GroupId": "00G2E000005YAyNUAW",
+      "UserOrGroupId": "00G2E000005YAySUAW",
+      "RoleAPIName": "Outreach_Agent_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G2E000005YAySUAW",
+      "RoleAPIName": "Outreach_Agent_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM Outreach",
+      "GroupId": "00G80000003a43HEAQ",
+      "UserOrGroupId": "00G2E000005YAySUAW",
+      "RoleAPIName": "Outreach_Agent_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA Admin Team",
+      "GroupId": "00G2E000005YAyNUAW",
+      "UserOrGroupId": "00G2E000005YAyVUAW",
+      "RoleAPIName": "Outreach_Agent_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G2E000005YAyVUAW",
+      "RoleAPIName": "Outreach_Agent_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM Outreach",
+      "GroupId": "00G80000003a43HEAQ",
+      "UserOrGroupId": "00G2E000005YAyVUAW",
+      "RoleAPIName": "Outreach_Agent_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA Admin Team",
+      "GroupId": "00G2E000005YAyNUAW",
+      "UserOrGroupId": "00G2E000005YAyYUAW",
+      "RoleAPIName": "Pilot_Agent_Team_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G2E000005YAyYUAW",
+      "RoleAPIName": "Pilot_Agent_Team_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA Admin Team",
+      "GroupId": "00G2E000005YAyNUAW",
+      "UserOrGroupId": "00G2E000005YAybUAG",
+      "RoleAPIName": "Pilot_Agent_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G2E000005YAybUAG",
+      "RoleAPIName": "Pilot_Agent_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA Admin Team",
+      "GroupId": "00G2E000005YAyNUAW",
+      "UserOrGroupId": "00G2E000005YAyeUAG",
+      "RoleAPIName": "Pilot_Agent_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G2E000005YAyeUAG",
+      "RoleAPIName": "Pilot_Agent_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "UK Outreach Leads Sharing",
+      "GroupId": "00G2E000007NB4vUAG",
+      "UserOrGroupId": "00G2E000005YAyhUAG",
+      "RoleAPIName": "UK_Admin_Team",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "UK Admin Team",
+      "GroupId": "00G2E000005YAyOUAW",
+      "UserOrGroupId": "00G2E000005YAyhUAG",
+      "RoleAPIName": "UK_Admin_Team",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "UK Admin Team",
+      "GroupId": "00G2E000005YAylUAG",
+      "UserOrGroupId": "00G2E000005YAyhUAG",
+      "RoleAPIName": "UK_Admin_Team",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA - Account Management",
+      "GroupId": "00G30000001Er5HEAS",
+      "UserOrGroupId": "00G2E000005ZZG6UAO",
+      "RoleAPIName": "BT_EMEA_RM_Director",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "AM Managers",
+      "GroupId": "00G30000001Fq3YEAS",
+      "UserOrGroupId": "00G2E000005ZZGLUA4",
+      "RoleAPIName": "BT_NA_Relationship_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Business Support",
+      "GroupId": "00G80000002N2yTEAS",
+      "UserOrGroupId": "00G300000013JdKEAU",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Outsource Read Write Minimum",
+      "GroupId": "00G80000002MgSyEAK",
+      "UserOrGroupId": "00G300000013JdKEAU",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Global Channel",
+      "GroupId": "00G80000001khlUEAQ",
+      "UserOrGroupId": "00G300000013JdKEAU",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal EMEA BD Visibility",
+      "GroupId": "00G800000043Cb3EAE",
+      "UserOrGroupId": "00G300000013VxXEAU",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Paypal EU Sales Operation",
+      "GroupId": "00G80000002OMeiEAG",
+      "UserOrGroupId": "00G300000013VxXEAU",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Outreach",
+      "GroupId": "00G80000001khvDEAQ",
+      "UserOrGroupId": "00G30000001GvFcEAK",
+      "RoleAPIName": "NA_MM_AAM_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G30000001GvpwEAC",
+      "RoleAPIName": "NA_MS_SMB_AM_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G30000001GvssEAC",
+      "RoleAPIName": "NA_MS_SMB_AM_Team1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G30000001GvsxEAC",
+      "RoleAPIName": "NA_MS_SMB_AM_Team4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G30000001GvvOEAS",
+      "RoleAPIName": "NA_MS_SMB_AM_Team2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Greater Europe Webform",
+      "GroupId": "00G80000002NTqkEAG",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Emerging Market Leads",
+      "GroupId": "00G80000003iYhZEAU",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Account Management (Managers)",
+      "GroupId": "00G80000001jz7dEAA",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EU MGM - Nordic",
+      "GroupId": "00G80000002QoAhEAK",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Ops ROE Team Leaders",
+      "GroupId": "00G80000002Q03BEAS",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Go Live Submission Group",
+      "GroupId": "00G80000002PdvrEAC",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Italy Leads",
+      "GroupId": "00G300000012I67EAE",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU Business Support",
+      "GroupId": "00G80000002PQgCEAW",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EU MGM",
+      "GroupId": "00G80000002POCREA4",
+      "UserOrGroupId": "00G80000001jz6QEAQ",
+      "RoleAPIName": "EU_AM_BS_Team_Lead_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Dub-SSO-UK",
+      "GroupId": "00G80000004cKIKEA2",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "UK AAM QUEUE",
+      "GroupId": "00G80000004fOUMEA2",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Greater Europe Webform",
+      "GroupId": "00G80000002NTqkEAG",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Emerging Market Leads",
+      "GroupId": "00G80000003iYhZEAU",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EU MGM - Nordic",
+      "GroupId": "00G80000002QoAhEAK",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Go Live Submission Group",
+      "GroupId": "00G80000002PdvrEAC",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Italy Leads",
+      "GroupId": "00G300000012I67EAE",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU Business Support",
+      "GroupId": "00G80000002PQgCEAW",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EU MGM",
+      "GroupId": "00G80000002POCREA4",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Italy HSS Queue",
+      "GroupId": "00G80000002O9ypEAC",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Dublin Telesales",
+      "GroupId": "00G300000010sr5EAA",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Spain HSS Leads",
+      "GroupId": "00G80000001kWU1EAM",
+      "UserOrGroupId": "00G80000001jz6VEAQ",
+      "RoleAPIName": "EU_BS_Agent_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G80000001khleEAA",
+      "RoleAPIName": "NA_Onboarding_AM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA - Account Management",
+      "GroupId": "00G30000001Er5HEAS",
+      "UserOrGroupId": "00G80000001khleEAA",
+      "RoleAPIName": "NA_Onboarding_AM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kprqEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_HK_TW",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kprqEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_HK_TW",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqrNEAQ",
+      "RoleAPIName": "APAC_EAM_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqrNEAQ",
+      "RoleAPIName": "APAC_EAM_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqrSEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqrSEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqrXEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Business Support",
+      "GroupId": "00G80000002N2yTEAS",
+      "UserOrGroupId": "00G80000001kqrXEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqrXEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqrcEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Business Support",
+      "GroupId": "00G80000002N2yTEAS",
+      "UserOrGroupId": "00G80000001kqrcEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqrcEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqrwEAA",
+      "RoleAPIName": "APAC_AM_MS_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqrwEAA",
+      "RoleAPIName": "APAC_AM_MS_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqs1EAA",
+      "RoleAPIName": "APAC_AM_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqs1EAA",
+      "RoleAPIName": "APAC_AM_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000001kqs6EAA",
+      "RoleAPIName": "APAC_AM_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000001kqs6EAA",
+      "RoleAPIName": "APAC_AM_KL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM Govt Questions",
+      "GroupId": "00G80000004V3gdEAC",
+      "UserOrGroupId": "00G80000002NBRUEA4",
+      "RoleAPIName": "NA_MM_AAM_Team_1_Supervisor",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Managers",
+      "GroupId": "00G80000001kPIEEA2",
+      "UserOrGroupId": "00G80000002NGYIEA4",
+      "RoleAPIName": "NA_TS_MGR_OB_4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Outbound Mgrs",
+      "GroupId": "00G80000002NeeBEAS",
+      "UserOrGroupId": "00G80000002NGYIEA4",
+      "RoleAPIName": "NA_TS_MGR_OB_4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002NGYIEA4",
+      "RoleAPIName": "NA_TS_MGR_OB_4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000002NGYNEA4",
+      "RoleAPIName": "NA_TS_OB_4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales - Outbound Reps",
+      "GroupId": "00G80000001kWCmEAM",
+      "UserOrGroupId": "00G80000002NGYNEA4",
+      "RoleAPIName": "NA_TS_OB_4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002NGYNEA4",
+      "RoleAPIName": "NA_TS_OB_4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "French Leads",
+      "GroupId": "00G300000012UKQEA2",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Dublin Telesales",
+      "GroupId": "00G300000010sr5EAA",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Emerging Market Leads",
+      "GroupId": "00G80000003iYhZEAU",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO Leadgen Queue",
+      "GroupId": "00G80000003HaQ1EAK",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Dublin TS Self Prospect",
+      "GroupId": "00G80000002qohOEAQ",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA PayPal it Leads",
+      "GroupId": "00G80000002QN6HEAW",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Lead Hunters",
+      "GroupId": "00G80000001kg9EEAQ",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EU SkyNet Leads",
+      "GroupId": "00G80000001krBIEAY",
+      "UserOrGroupId": "00G80000002NGvgEAG",
+      "RoleAPIName": "Lead_Qualifier_NL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AM",
+      "GroupId": "00G2E0000055cwdUAA",
+      "UserOrGroupId": "00G80000002NGzJEAW",
+      "RoleAPIName": "EU_AM_BeNe",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Go Live Submission Group",
+      "GroupId": "00G80000002PdvrEAC",
+      "UserOrGroupId": "00G80000002NGzJEAW",
+      "RoleAPIName": "EU_AM_BeNe",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Managers",
+      "GroupId": "00G80000001kPIEEA2",
+      "UserOrGroupId": "00G80000002OFzfEAG",
+      "RoleAPIName": "NATSMGROB5",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Outbound Mgrs",
+      "GroupId": "00G80000002NeeBEAS",
+      "UserOrGroupId": "00G80000002OFzfEAG",
+      "RoleAPIName": "NATSMGROB5",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002OFzfEAG",
+      "RoleAPIName": "NATSMGROB5",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "BT NA Sales Engineering",
+      "GroupId": "00G80000004VEUHEA4",
+      "UserOrGroupId": "00G80000002Ol2EEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PPTS_CaseShareGroup",
+      "GroupId": "00G800000055Z6pEAE",
+      "UserOrGroupId": "00G80000002Ol2EEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA LM - SE Sales",
+      "GroupId": "00G80000001kqv5EAA",
+      "UserOrGroupId": "00G80000002Ol2EEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "NA LM - EM Sales",
+      "GroupId": "00G80000001kquvEAA",
+      "UserOrGroupId": "00G80000002Ol2EEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Product Support",
+      "GroupId": "00G80000002OlFhEAK",
+      "UserOrGroupId": "00G80000002Ol2EEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA RM & Marketing",
+      "GroupId": "00G80000001cNCgEAM",
+      "UserOrGroupId": "00G80000002Ol3CEAS",
+      "RoleAPIName": "NA_LE_Lifestyle_RM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA RM & Marketing",
+      "GroupId": "00G80000001cNCgEAM",
+      "UserOrGroupId": "00G80000002Ol3MEAS",
+      "RoleAPIName": "NA_LE_Mass_CSA_Merchant_RM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002OpKTEA0",
+      "RoleAPIName": "NATSOMASL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Outbound Mgrs",
+      "GroupId": "00G80000002NeeBEAS",
+      "UserOrGroupId": "00G80000002OpKTEA0",
+      "RoleAPIName": "NATSOMASL",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SMB RM Sales Roles",
+      "GroupId": "00G80000002FKMkEAO",
+      "UserOrGroupId": "00G80000002OyeuEAC",
+      "RoleAPIName": "C2_SMB_RM_BJ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC BU Users",
+      "GroupId": "00G80000003Hf8GEAS",
+      "UserOrGroupId": "00G80000002OyeuEAC",
+      "RoleAPIName": "C2_SMB_RM_BJ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC C2 SMB RM",
+      "GroupId": "00G80000002qZNlEAM",
+      "UserOrGroupId": "00G80000002OyeuEAC",
+      "RoleAPIName": "C2_SMB_RM_BJ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "C2 SMB RM BJ",
+      "GroupId": "00G80000002OyeoEAC",
+      "UserOrGroupId": "00G80000002OyeuEAC",
+      "RoleAPIName": "C2_SMB_RM_BJ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SMB RM Sales Roles",
+      "GroupId": "00G80000002FKMkEAO",
+      "UserOrGroupId": "00G80000002Oyf0EAC",
+      "RoleAPIName": "C2_SMB_RM_GZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC BU Users",
+      "GroupId": "00G80000003Hf8GEAS",
+      "UserOrGroupId": "00G80000002Oyf0EAC",
+      "RoleAPIName": "C2_SMB_RM_GZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC C2 SMB RM",
+      "GroupId": "00G80000002qZNlEAM",
+      "UserOrGroupId": "00G80000002Oyf0EAC",
+      "RoleAPIName": "C2_SMB_RM_GZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "C2 SMB RM GZ",
+      "GroupId": "00G80000002OyeqEAC",
+      "UserOrGroupId": "00G80000002Oyf0EAC",
+      "RoleAPIName": "C2_SMB_RM_GZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SMB RM Sales Roles",
+      "GroupId": "00G80000002FKMkEAO",
+      "UserOrGroupId": "00G80000002Oyf6EAC",
+      "RoleAPIName": "C2_SMB_RM_SH",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC BU Users",
+      "GroupId": "00G80000003Hf8GEAS",
+      "UserOrGroupId": "00G80000002Oyf6EAC",
+      "RoleAPIName": "C2_SMB_RM_SH",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC C2 SMB RM",
+      "GroupId": "00G80000002qZNlEAM",
+      "UserOrGroupId": "00G80000002Oyf6EAC",
+      "RoleAPIName": "C2_SMB_RM_SH",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "C2 SMB RM SH",
+      "GroupId": "00G80000002OyesEAC",
+      "UserOrGroupId": "00G80000002Oyf6EAC",
+      "RoleAPIName": "C2_SMB_RM_SH",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SMB RM Sales Roles",
+      "GroupId": "00G80000002FKMkEAO",
+      "UserOrGroupId": "00G80000002Oyf9EAC",
+      "RoleAPIName": "C2_SMB_RM_SZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC BU Users",
+      "GroupId": "00G80000003Hf8GEAS",
+      "UserOrGroupId": "00G80000002Oyf9EAC",
+      "RoleAPIName": "C2_SMB_RM_SZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC C2 SMB RM",
+      "GroupId": "00G80000002qZNlEAM",
+      "UserOrGroupId": "00G80000002Oyf9EAC",
+      "RoleAPIName": "C2_SMB_RM_SZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "C2 SMB RM SZ",
+      "GroupId": "00G80000002OyetEAC",
+      "UserOrGroupId": "00G80000002Oyf9EAC",
+      "RoleAPIName": "C2_SMB_RM_SZ",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM Govt Questions",
+      "GroupId": "00G80000004V3gdEAC",
+      "UserOrGroupId": "00G80000002PYGtEAO",
+      "RoleAPIName": "NA_MM_AAM_Team_2_Supervisor",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002Pn8aEAC",
+      "RoleAPIName": "APAC_AM_HK_TW",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002Pn8aEAC",
+      "RoleAPIName": "APAC_AM_HK_TW",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002Pn8kEAC",
+      "RoleAPIName": "APAC_EAM_HK_TW",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002Pn8kEAC",
+      "RoleAPIName": "APAC_EAM_HK_TW",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002Pn9EEAS",
+      "RoleAPIName": "APAC_EAM_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002Pn9EEAS",
+      "RoleAPIName": "APAC_EAM_JP",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002PnBKEA0",
+      "RoleAPIName": "APAC_AM_MS_Team_Lead_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002PnBKEA0",
+      "RoleAPIName": "APAC_AM_MS_Team_Lead_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002PnBPEA0",
+      "RoleAPIName": "APAC_AM_MP_Team_Lead_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002PnBPEA0",
+      "RoleAPIName": "APAC_AM_MP_Team_Lead_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002PnBUEA0",
+      "RoleAPIName": "APAC_AM_MP_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002PnBUEA0",
+      "RoleAPIName": "APAC_AM_MP_C2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Telesales Dublin",
+      "GroupId": "00G80000001kREzEAM",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU TeleSales Managers",
+      "GroupId": "00G80000001k1BnEAI",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Account Management (Managers)",
+      "GroupId": "00G80000001jz7dEAA",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU Ops Opportunity View All",
+      "GroupId": "00G80000002r1QJEAY",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "GOPS status update visibility",
+      "GroupId": "00G80000002Q7CtEAK",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Ops Director & Country Leads",
+      "GroupId": "00G80000002Q03QEAS",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Ops ROE Team Leaders",
+      "GroupId": "00G80000002Q03BEAS",
+      "UserOrGroupId": "00G80000002PvvcEAC",
+      "RoleAPIName": "EU_Ops_Country_Manager_GE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "FR PSS",
+      "GroupId": "00G2E0000047byOUAQ",
+      "UserOrGroupId": "00G80000002PvxEEAS",
+      "RoleAPIName": "EU_BS_Agent_FR",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000002PvxEEAS",
+      "RoleAPIName": "EU_BS_Agent_FR",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "AU AMs",
+      "GroupId": "00G2E0000055cwbUAA",
+      "UserOrGroupId": "00G80000002PvxJEAS",
+      "RoleAPIName": "EU_AM_AU",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Ops DE Team Leaders",
+      "GroupId": "00G80000002Q02hEAC",
+      "UserOrGroupId": "00G80000002PvxYEAS",
+      "RoleAPIName": "Telesales_Team_Lead_DE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EMEA - Lead Nurture",
+      "GroupId": "00G80000003HaJREA0",
+      "UserOrGroupId": "00G80000002PvxiEAC",
+      "RoleAPIName": "Telesales_Team_Lead_UK",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Ops UK Team Leaders",
+      "GroupId": "00G80000002Q02cEAC",
+      "UserOrGroupId": "00G80000002PvxiEAC",
+      "RoleAPIName": "Telesales_Team_Lead_UK",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000002PyAuEAK",
+      "RoleAPIName": "NATSOBSR4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002PyAuEAK",
+      "RoleAPIName": "NATSOBSR4",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "IT PSS",
+      "GroupId": "00G2E0000047byPUAQ",
+      "UserOrGroupId": "00G80000002PybOEAS",
+      "RoleAPIName": "EU_BS_Agent_IT",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "UK AAM QUEUE",
+      "GroupId": "00G80000004fOUMEA2",
+      "UserOrGroupId": "00G80000002PybOEAS",
+      "RoleAPIName": "EU_BS_Agent_IT",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Dub-SSO-UK",
+      "GroupId": "00G80000004cKIKEA2",
+      "UserOrGroupId": "00G80000002PybOEAS",
+      "RoleAPIName": "EU_BS_Agent_IT",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000002PybOEAS",
+      "RoleAPIName": "EU_BS_Agent_IT",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Spain HSS Leads",
+      "GroupId": "00G80000001kWU1EAM",
+      "UserOrGroupId": "00G80000002PybOEAS",
+      "RoleAPIName": "EU_BS_Agent_IT",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Managers",
+      "GroupId": "00G80000001kPIEEA2",
+      "UserOrGroupId": "00G80000002QSYyEAO",
+      "RoleAPIName": "NATSMGROB6",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002QSYyEAO",
+      "RoleAPIName": "NATSMGROB6",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales Outbound Mgrs",
+      "GroupId": "00G80000002NeeBEAS",
+      "UserOrGroupId": "00G80000002QSYyEAO",
+      "RoleAPIName": "NATSMGROB6",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000002QSZ1EAO",
+      "RoleAPIName": "NATSOB6",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000002QSZ1EAO",
+      "RoleAPIName": "NATSOB6",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - BU & Dublin Ops",
+      "GroupId": "00G80000001kaSOEAY",
+      "UserOrGroupId": "00G80000002QW2NEAW",
+      "RoleAPIName": "NA_FI_and_POS_PM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000002QW2TEAW",
+      "RoleAPIName": "NA_Indirect_Channels_Sr_Dir",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Greater Europe Webform",
+      "GroupId": "00G80000002NTqkEAG",
+      "UserOrGroupId": "00G80000002QmiJEAS",
+      "RoleAPIName": "EU_BS_Agent_Israel",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000002QmiJEAS",
+      "RoleAPIName": "EU_BS_Agent_Israel",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000002QmiTEAS",
+      "RoleAPIName": "EU_BS_Agent_Iberia",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AM",
+      "GroupId": "00G2E0000055cwdUAA",
+      "UserOrGroupId": "00G80000002QminEAC",
+      "RoleAPIName": "EU_EAM_MENA",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AM",
+      "GroupId": "00G2E0000055cwdUAA",
+      "UserOrGroupId": "00G80000002QmisEAC",
+      "RoleAPIName": "EU_EAM_CEE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AM",
+      "GroupId": "00G2E0000055cwdUAA",
+      "UserOrGroupId": "00G80000002QmixEAC",
+      "RoleAPIName": "EU_AM_CEE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SMB RM Sales Roles",
+      "GroupId": "00G80000002FKMkEAO",
+      "UserOrGroupId": "00G80000002cnI0EAI",
+      "RoleAPIName": "IN_Country_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "IN LMS Group - APAC",
+      "GroupId": "00G80000002dGEnEAM",
+      "UserOrGroupId": "00G80000002cnI0EAI",
+      "RoleAPIName": "IN_Country_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC LM Sales Roles",
+      "GroupId": "00G80000002FKMaEAO",
+      "UserOrGroupId": "00G80000002cnIAEAY",
+      "RoleAPIName": "IN_Head_of_LM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "IN LMS Group - APAC",
+      "GroupId": "00G80000002dGEnEAM",
+      "UserOrGroupId": "00G80000002cnIAEAY",
+      "RoleAPIName": "IN_Head_of_LM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC LM Sales Roles",
+      "GroupId": "00G80000002FKMaEAO",
+      "UserOrGroupId": "00G80000002cnIFEAY",
+      "RoleAPIName": "IN_LM_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "IN Lead Queue",
+      "GroupId": "00G80000001krhLEAQ",
+      "UserOrGroupId": "00G80000002cnIFEAY",
+      "RoleAPIName": "IN_LM_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "IN LMS Group - APAC",
+      "GroupId": "00G80000002dGEnEAM",
+      "UserOrGroupId": "00G80000002cnIFEAY",
+      "RoleAPIName": "IN_LM_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SGM Sales Roles",
+      "GroupId": "00G80000002FKMfEAO",
+      "UserOrGroupId": "00G80000002cnK1EAI",
+      "RoleAPIName": "IN_Relationship_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC SMB RM Sales Roles",
+      "GroupId": "00G80000002FKMkEAO",
+      "UserOrGroupId": "00G80000002cnKGEAY",
+      "RoleAPIName": "IN_SMB_RM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000002cnKLEAY",
+      "RoleAPIName": "IN_Telesales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000002dCu5EAE",
+      "RoleAPIName": "BT_APAC_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT APAC Sales - Xactly",
+      "GroupId": "00G80000004Q3uUEAS",
+      "UserOrGroupId": "00G80000002dCu5EAE",
+      "RoleAPIName": "BT_APAC_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT APAC Sales - Xactly",
+      "GroupId": "00G80000004Q3uUEAS",
+      "UserOrGroupId": "00G80000002dCuBEAU",
+      "RoleAPIName": "BT_APAC_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT APAC Team",
+      "GroupId": "00G80000004Ir5eEAC",
+      "UserOrGroupId": "00G80000002dCuBEAU",
+      "RoleAPIName": "BT_APAC_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC BT/PP Sales Pilot",
+      "GroupId": "00G80000003hnH5EAI",
+      "UserOrGroupId": "00G80000002dCuBEAU",
+      "RoleAPIName": "BT_APAC_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal Account Sharing",
+      "GroupId": "00G2E000007NB4uUAG",
+      "UserOrGroupId": "00G80000002dCuTEAU",
+      "RoleAPIName": "BT_EMEA_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000002dCuTEAU",
+      "RoleAPIName": "BT_EMEA_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT EMEA Sales - Xactly",
+      "GroupId": "00G80000004Q3uZEAS",
+      "UserOrGroupId": "00G80000002dCuTEAU",
+      "RoleAPIName": "BT_EMEA_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal Account Sharing",
+      "GroupId": "00G2E000007NB4uUAG",
+      "UserOrGroupId": "00G80000002dCuZEAU",
+      "RoleAPIName": "BT_EMEA_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT EMEA Sales - Xactly",
+      "GroupId": "00G80000004Q3uZEAS",
+      "UserOrGroupId": "00G80000002dCuZEAU",
+      "RoleAPIName": "BT_EMEA_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - AM",
+      "GroupId": "00G80000001kOkTEAU",
+      "UserOrGroupId": "00G80000002dCucEAE",
+      "RoleAPIName": "BT_EMEA_Sales_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal Shared",
+      "GroupId": "00G80000002dCveEAE",
+      "UserOrGroupId": "00G80000002dCucEAE",
+      "RoleAPIName": "BT_EMEA_Sales_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000002dCv9EAE",
+      "RoleAPIName": "BT_NA_Head_of_Sales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT NA Sales - Xactly",
+      "GroupId": "00G80000004Q3ujEAC",
+      "UserOrGroupId": "00G80000002dCv9EAE",
+      "RoleAPIName": "BT_NA_Head_of_Sales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "BT NA Account Management",
+      "GroupId": "00G800000042qJHEAY",
+      "UserOrGroupId": "00G80000002dCv9EAE",
+      "RoleAPIName": "BT_NA_Head_of_Sales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT NA Sales - Xactly",
+      "GroupId": "00G80000004Q3ujEAC",
+      "UserOrGroupId": "00G80000002dCvUEAU",
+      "RoleAPIName": "BT_NA_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT NA Sales - Xactly",
+      "GroupId": "00G80000004Q3ujEAC",
+      "UserOrGroupId": "00G80000002dCvXEAU",
+      "RoleAPIName": "BT_NA_Sales_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Users Edit Opportunities",
+      "GroupId": "00G80000003qonBEAQ",
+      "UserOrGroupId": "00G80000002dCvXEAU",
+      "RoleAPIName": "BT_NA_Sales_Support",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002qY7XEAU",
+      "RoleAPIName": "APAC_AM_KR",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002qY7XEAU",
+      "RoleAPIName": "APAC_AM_KR",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Account Management",
+      "GroupId": "00G80000001krGLEAY",
+      "UserOrGroupId": "00G80000002qYHcEAM",
+      "RoleAPIName": "APAC_EAM_KR",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Merchant Service",
+      "GroupId": "00G80000002FLg7EAG",
+      "UserOrGroupId": "00G80000002qYHcEAM",
+      "RoleAPIName": "APAC_EAM_KR",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC C2 SMB RM",
+      "GroupId": "00G80000002qZNlEAM",
+      "UserOrGroupId": "00G80000002qYVyEAM",
+      "RoleAPIName": "Paypal_Outsouce_APAC_SMB_RM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AM",
+      "GroupId": "00G2E0000055cwdUAA",
+      "UserOrGroupId": "00G80000002qYegEAE",
+      "RoleAPIName": "EU_AM_Israel",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000003Ftt0EAC",
+      "RoleAPIName": "EU_AM_EAM_BS_IT_ES_Lead_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Intl Inside Sales - Xactly",
+      "GroupId": "00G80000004Q3ueEAC",
+      "UserOrGroupId": "00G80000003GwMrEAK",
+      "RoleAPIName": "BT_Intl_Inside_Sales",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "EMEA MRO BS Lead Queue",
+      "GroupId": "00G80000003HaQ6EAK",
+      "UserOrGroupId": "00G80000003Gz5kEAC",
+      "RoleAPIName": "EU_BS_Agent_BeNe",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "AU AMs",
+      "GroupId": "00G2E0000055cwbUAA",
+      "UserOrGroupId": "00G80000003HatJEAS",
+      "RoleAPIName": "EU_AM_EAM_Team_Lead_AU",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "AU AMs",
+      "GroupId": "00G2E0000055cwbUAA",
+      "UserOrGroupId": "00G80000003HatMEAS",
+      "RoleAPIName": "EU_EAM_AU",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Inbound",
+      "GroupId": "00G80000004T0xGEAS",
+      "UserOrGroupId": "00G80000003Hb1DEAS",
+      "RoleAPIName": "Sales_Representative_AU_Inbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000003Hb1GEAS",
+      "RoleAPIName": "Sales_Representative_AU_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AM",
+      "GroupId": "00G2E0000055cwdUAA",
+      "UserOrGroupId": "00G80000003HfYEEA0",
+      "RoleAPIName": "EU_AM_SSA",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Greater Europe Webform",
+      "GroupId": "00G80000002NTqkEAG",
+      "UserOrGroupId": "00G80000003HfYEEA0",
+      "RoleAPIName": "EU_AM_SSA",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "DE Business Enablement",
+      "GroupId": "00G2E000004NGjyUAG",
+      "UserOrGroupId": "00G80000003HgFXEA0",
+      "RoleAPIName": "EU_EAM_AM_DE_Lead_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000003HgJrEAK",
+      "RoleAPIName": "NA_TS_Sr_OB_MidMkt_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Telesales AEs and Mgrs",
+      "GroupId": "00G80000001jynOEAQ",
+      "UserOrGroupId": "00G80000003HgJuEAK",
+      "RoleAPIName": "NA_TS_Sr_OB_MidMkt_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G80000003aAHrEAM",
+      "RoleAPIName": "NA_MM_AAM_Team_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AAM",
+      "GroupId": "00G80000003aAI9EAM",
+      "UserOrGroupId": "00G80000003aAHrEAM",
+      "RoleAPIName": "NA_MM_AAM_Team_1",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G80000003aAHxEAM",
+      "RoleAPIName": "NA_MM_AAM_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AAM",
+      "GroupId": "00G80000003aAI9EAM",
+      "UserOrGroupId": "00G80000003aAHxEAM",
+      "RoleAPIName": "NA_MM_AAM_Team_2",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G80000003aAI3EAM",
+      "RoleAPIName": "NA_MM_AAM_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AAM",
+      "GroupId": "00G80000003aAI9EAM",
+      "UserOrGroupId": "00G80000003aAI3EAM",
+      "RoleAPIName": "NA_MM_AAM_Team_3",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "BT Account Specialists",
+      "GroupId": "00G80000004VFApEAO",
+      "UserOrGroupId": "00G80000003i0R4EAI",
+      "RoleAPIName": "BT_Account_Specialist",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal EU",
+      "GroupId": "00G80000002dCvdEAE",
+      "UserOrGroupId": "00G80000003i0R4EAI",
+      "RoleAPIName": "BT_Account_Specialist",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "BT NA Account Management",
+      "GroupId": "00G800000042qJHEAY",
+      "UserOrGroupId": "00G80000003i0R4EAI",
+      "RoleAPIName": "BT_Account_Specialist",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000003qTNxEAM",
+      "RoleAPIName": "Sales_Representative_ES_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT NA Sales - Xactly",
+      "GroupId": "00G80000004Q3ujEAC",
+      "UserOrGroupId": "00G80000004JorBEAS",
+      "RoleAPIName": "BT_NA_Sales_Rep_MM",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM All AM RM AAM Outreach",
+      "GroupId": "00G80000004QAezEAG",
+      "UserOrGroupId": "00G80000004JorQEAS",
+      "RoleAPIName": "NA_MS_SMB_AM_Team_5",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT APAC Sales - Xactly",
+      "GroupId": "00G80000004Q3uUEAS",
+      "UserOrGroupId": "00G80000004Q3r7EAC",
+      "RoleAPIName": "BT_AU_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000004Q3rDEAS",
+      "RoleAPIName": "BT_DE_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000004Q3rJEAS",
+      "RoleAPIName": "BT_FR_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT EMEA Sales - Xactly",
+      "GroupId": "00G80000004Q3uZEAS",
+      "UserOrGroupId": "00G80000004Q3rJEAS",
+      "RoleAPIName": "BT_FR_Sales_Manager",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT EMEA Sales - Xactly",
+      "GroupId": "00G80000004Q3uZEAS",
+      "UserOrGroupId": "00G80000004Q3rMEAS",
+      "RoleAPIName": "BT_FR_Sales_Rep",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Sales Leadership",
+      "GroupId": "00G800000055YU4EAM",
+      "UserOrGroupId": "00G80000004Q3rPEAS",
+      "RoleAPIName": "BT_NA_Sales_Manager_LE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT NA Sales - Xactly",
+      "GroupId": "00G80000004Q3ujEAC",
+      "UserOrGroupId": "00G80000004Q3rPEAS",
+      "RoleAPIName": "BT_NA_Sales_Manager_LE",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT NA Sales - Xactly",
+      "GroupId": "00G80000004Q3ujEAC",
+      "UserOrGroupId": "00G80000004Q3rSEAS",
+      "RoleAPIName": "BT_NA_Sales_Manager_SMB",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "BNL Leads",
+      "GroupId": "00G80000001kTpOEAU",
+      "UserOrGroupId": "00G80000004QNePEAW",
+      "RoleAPIName": "Sales_Representative_NCE_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "CEE Leads",
+      "GroupId": "00G80000002OFwvEAG",
+      "UserOrGroupId": "00G80000004QNePEAW",
+      "RoleAPIName": "Sales_Representative_NCE_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Nordics Queue",
+      "GroupId": "00G80000002O9yVEAS",
+      "UserOrGroupId": "00G80000004QNePEAW",
+      "RoleAPIName": "Sales_Representative_NCE_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Merchant Vetting Application Queue",
+      "GroupId": "00G80000002MufLEAS",
+      "UserOrGroupId": "00G80000004QNePEAW",
+      "RoleAPIName": "Sales_Representative_NCE_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Lightning - TS - Outbound",
+      "GroupId": "00G80000004T0xHEAS",
+      "UserOrGroupId": "00G80000004QNePEAW",
+      "RoleAPIName": "Sales_Representative_NCE_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU Telesales Reps",
+      "GroupId": "00G80000001kj5CEAQ",
+      "UserOrGroupId": "00G80000004QNePEAW",
+      "RoleAPIName": "Sales_Representative_NCE_Outbound",
+      "RoleType": "Role"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Relationship Managers",
+      "GroupId": "00G2E000005ZZGPUA4",
+      "UserOrGroupId": "00G2E000005ZZG8UAO",
+      "RoleAPIName": "BT_EMEA_RM_Director",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Global Deal - APAC",
+      "GroupId": "00G80000002FKArEAO",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Region & APAC TS Outsource",
+      "GroupId": "00G80000003G0GPEA0",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal APAC",
+      "GroupId": "00G80000003FNGLEA4",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal APAC Region",
+      "GroupId": "00G80000002dF0YEAU",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal Shared",
+      "GroupId": "00G80000002dCveEAE",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "All Gbl Ops merchant users(Public)",
+      "GroupId": "00G80000002qzDYEAY",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - AU Approval visibility",
+      "GroupId": "00G80000002QDtFEAW",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "CL SAL - Viewers",
+      "GroupId": "00G80000002MvykEAC",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Sales League - Shared Sales Collateral",
+      "GroupId": "00G80000002MsDmEAK",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Campaigns - PayPal Minus EU",
+      "GroupId": "00G80000002MqAjEAK",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC All Internal Users",
+      "GroupId": "00G80000002MpE2EAK",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Outsource Read Write Case",
+      "GroupId": "00G80000002MgSzEAK",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Outsource Read Only Minimum",
+      "GroupId": "00G80000002MgStEAK",
+      "UserOrGroupId": "00G30000001EXeNEAW",
+      "RoleAPIName": "PayPalAPACRegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Global Deal - EMEA",
+      "GroupId": "00G80000002FKAsEAO",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - Eloqua Sharing",
+      "GroupId": "00G80000002Qb1yEAC",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal EMEA",
+      "GroupId": "00G80000003FNGNEA4",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal EU",
+      "GroupId": "00G80000002dCvdEAE",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal EU & Russia Group",
+      "GroupId": "00G80000002qg33EAA",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - BU & Dublin Ops",
+      "GroupId": "00G80000001kaSOEAY",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - All Sales and Support",
+      "GroupId": "00G80000001jzAUEAY",
+      "UserOrGroupId": "00G30000001EXgJEAW",
+      "RoleAPIName": "PayPalEU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AM",
+      "GroupId": "00G80000003a43CEAQ",
+      "UserOrGroupId": "00G30000001GvpyEAC",
+      "RoleAPIName": "NA_MS_SMB_AM_Team_3",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AM",
+      "GroupId": "00G80000003a43CEAQ",
+      "UserOrGroupId": "00G30000001GvsuEAC",
+      "RoleAPIName": "NA_MS_SMB_AM_Team1",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AM",
+      "GroupId": "00G80000003a43CEAQ",
+      "UserOrGroupId": "00G30000001GvszEAC",
+      "RoleAPIName": "NA_MS_SMB_AM_Team4",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AM",
+      "GroupId": "00G80000003a43CEAQ",
+      "UserOrGroupId": "00G30000001GvvQEAS",
+      "RoleAPIName": "NA_MS_SMB_AM_Team2",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Global Deal - NA",
+      "GroupId": "00G80000002FKAuEAO",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal NA",
+      "GroupId": "00G80000003FNGREA4",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal Shared",
+      "GroupId": "00G80000002dCveEAE",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "No Phone & Email - US",
+      "GroupId": "00G300000010c3nEAA",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Invalid Phone - US - Omaha",
+      "GroupId": "00G300000010c3iEAA",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "No Country - San Jose Campaign Group",
+      "GroupId": "00G300000010c4qEAA",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "No Country - Omaha Campaign Group",
+      "GroupId": "00G300000010c4gEAA",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "No Country - No Campaign Group",
+      "GroupId": "00G300000010c3KEAQ",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Queue",
+      "GroupName": "Invalid Phone - US - San Jose",
+      "GroupId": "00G300000010c3EEAQ",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "CL SAL - Viewers",
+      "GroupId": "00G80000002MvykEAC",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Sales League - Shared Sales Collateral",
+      "GroupId": "00G80000002MsDmEAK",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Campaigns - PayPal Minus EU",
+      "GroupId": "00G80000002MqAjEAK",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Region And GSI Users",
+      "GroupId": "00G80000002MkzSEAS",
+      "UserOrGroupId": "00G80000001kVxOEAU",
+      "RoleAPIName": "PayPalNARegion",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AM",
+      "GroupId": "00G80000003a43CEAQ",
+      "UserOrGroupId": "00G80000001khlgEAA",
+      "RoleAPIName": "NA_Onboarding_AM",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Ops Group",
+      "GroupId": "00G80000002qfIlEAI",
+      "UserOrGroupId": "00G80000001kprsEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_HK_TW",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Ops Group",
+      "GroupId": "00G80000002qfIlEAI",
+      "UserOrGroupId": "00G80000001kqrUEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_C2",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Ops Group",
+      "GroupId": "00G80000002qfIlEAI",
+      "UserOrGroupId": "00G80000001kqrZEAQ",
+      "RoleAPIName": "APAC_Account_Manager_Lead_JP",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Ops Group",
+      "GroupId": "00G80000002qfIlEAI",
+      "UserOrGroupId": "00G80000001kqreEAA",
+      "RoleAPIName": "APAC_Account_Manager_Lead_KL",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Outreach",
+      "GroupId": "00G80000001khvDEAQ",
+      "UserOrGroupId": "00G80000002NBRWEA4",
+      "RoleAPIName": "NA_MM_AAM_Team_1_Supervisor",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - AM",
+      "GroupId": "00G80000001kOkTEAU",
+      "UserOrGroupId": "00G80000002NGzLEAW",
+      "RoleAPIName": "EU_AM_BeNe",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU AMs and EAMs",
+      "GroupId": "00G80000001kTdDEAU",
+      "UserOrGroupId": "00G80000002NGzLEAW",
+      "RoleAPIName": "EU_AM_BeNe",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Account Plan",
+      "GroupId": "00G80000002QMZTEA4",
+      "UserOrGroupId": "00G80000002Ol2GEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Zong: Non-Zong User Access",
+      "GroupId": "00G80000002OQPzEAO",
+      "UserOrGroupId": "00G80000002Ol2GEAS",
+      "RoleAPIName": "NA_Product_Support",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA-LM Sales",
+      "GroupId": "00G80000001ZIotEAG",
+      "UserOrGroupId": "00G80000002Ol2LEAS",
+      "RoleAPIName": "NA_LE_Strategic_Operations",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA - AMs.RMs.Sales",
+      "GroupId": "00G80000001kQlUEAU",
+      "UserOrGroupId": "00G80000002Ol2LEAS",
+      "RoleAPIName": "NA_LE_Strategic_Operations",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA RMs",
+      "GroupId": "00G80000001kKBLEA2",
+      "UserOrGroupId": "00G80000002Ol2LEAS",
+      "RoleAPIName": "NA_LE_Strategic_Operations",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA Outreach",
+      "GroupId": "00G80000001khvDEAQ",
+      "UserOrGroupId": "00G80000002PYGvEAO",
+      "RoleAPIName": "NA_MM_AAM_Team_2_Supervisor",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Ops Group",
+      "GroupId": "00G80000002qfIlEAI",
+      "UserOrGroupId": "00G80000002PnBMEA0",
+      "RoleAPIName": "APAC_AM_MS_Team_Lead_C2",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC Ops Group",
+      "GroupId": "00G80000002qfIlEAI",
+      "UserOrGroupId": "00G80000002PnBREA0",
+      "RoleAPIName": "APAC_AM_MP_Team_Lead_C2",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - AU Managed accounts",
+      "GroupId": "00G80000002QDtAEAW",
+      "UserOrGroupId": "00G80000002PvxLEAS",
+      "RoleAPIName": "EU_AM_AU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU - AM",
+      "GroupId": "00G80000001kOkTEAU",
+      "UserOrGroupId": "00G80000002PvxLEAS",
+      "RoleAPIName": "EU_AM_AU",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal EU",
+      "GroupId": "00G80000002dCvdEAE",
+      "UserOrGroupId": "00G80000002QW2VEAW",
+      "RoleAPIName": "NA_Indirect_Channels_Sr_Dir",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "Global Channel",
+      "GroupId": "00G80000001khlUEAQ",
+      "UserOrGroupId": "00G80000002QW2VEAW",
+      "RoleAPIName": "NA_Indirect_Channels_Sr_Dir",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "APAC BU Users",
+      "GroupId": "00G80000003Hf8GEAS",
+      "UserOrGroupId": "00G80000002cnI2EAI",
+      "RoleAPIName": "IN_Country_Manager",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "PayPal Outsource - APAC Telesales",
+      "GroupId": "00G80000002MgThEAK",
+      "UserOrGroupId": "00G80000002cnKDEAY",
+      "RoleAPIName": "IN_Telesales_Manager",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT All Roles",
+      "GroupId": "00G80000002dLK3EAM",
+      "UserOrGroupId": "00G80000002dCuJEAU",
+      "RoleAPIName": "BT_EMEA",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "EU PayPal - Magento Opp Visibility",
+      "GroupId": "00G80000002cj1yEAA",
+      "UserOrGroupId": "00G80000002dCuJEAU",
+      "RoleAPIName": "BT_EMEA",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal EU",
+      "GroupId": "00G80000002dCvdEAE",
+      "UserOrGroupId": "00G80000002dCuJEAU",
+      "RoleAPIName": "BT_EMEA",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT All Roles",
+      "GroupId": "00G80000002dLK3EAM",
+      "UserOrGroupId": "00G80000002dCv5EAE",
+      "RoleAPIName": "BT_NA",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Shared",
+      "GroupId": "00G80000002dCvfEAE",
+      "UserOrGroupId": "00G80000002dCv5EAE",
+      "RoleAPIName": "BT_NA",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT PayPal Shared",
+      "GroupId": "00G80000002dCveEAE",
+      "UserOrGroupId": "00G80000002dCv5EAE",
+      "RoleAPIName": "BT_NA",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Relationship Managers",
+      "GroupId": "00G2E000005ZZGPUA4",
+      "UserOrGroupId": "00G80000003i0R6EAI",
+      "RoleAPIName": "BT_Account_Specialist",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "BT Account Specialists",
+      "GroupId": "00G2E000005ZZGOUA4",
+      "UserOrGroupId": "00G80000003i0R6EAI",
+      "RoleAPIName": "BT_Account_Specialist",
+      "RoleType": "RoleAndSubordinatesInternal"
+    },
+    {
+      "GroupType": "Regular",
+      "GroupName": "NA MM AM",
+      "GroupId": "00G80000003a43CEAQ",
+      "UserOrGroupId": "00G80000004JorSEAS",
+      "RoleAPIName": "NA_MS_SMB_AM_Team_5",
+      "RoleType": "RoleAndSubordinatesInternal"
+    }
+  ]
